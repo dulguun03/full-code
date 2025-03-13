@@ -5,7 +5,7 @@ onload = () => {
     }, 1000);
 };
 
-/*
+
 // Button interactions
 document.addEventListener("DOMContentLoaded", () => {
   const yesButton = document.getElementById("yesButton");
@@ -44,4 +44,3 @@ document.addEventListener("DOMContentLoaded", () => {
       noButton.style.top = `${y}px`;
   });
 });
-*/
